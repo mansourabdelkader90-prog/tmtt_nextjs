@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "next": "16.1.2",
-    "pi-sdk-js": "git+https://github.com/pi-apps/pi-sdk-js.git",
-    "pi-sdk-nextjs": "git+https://github.com/pi-apps/pi-sdk-nextjs.git",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
